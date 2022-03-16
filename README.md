@@ -1,2 +1,3 @@
-# scope
-General_Discussion
+# Вітаємо в проекті New.Era
+
+Тут щось потрібно написати
