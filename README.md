@@ -34,6 +34,7 @@
 
 ## Додаткова інформація
 
+* [Словник](Vocabulary.md)
 * [Довідники](Catalog/index.md)
 * [Документи](Document/index.md)
 * [Журнали](Journal/index.md)
